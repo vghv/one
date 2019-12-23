@@ -1,0 +1,4 @@
+/* pages/coupon/coupon.wxss */
+.weui-form-preview{
+    margin-bottom: 25px;
+}
