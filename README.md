@@ -22,5 +22,7 @@ index主界面
 使用的主要技术:
 easyUI,ajax实现后台与前台的
 
+前端演示网址：http://localhost:8080/JavaWebProject
+后台演示网址：http://localhost:8080/JavaWebProject/login.jsp
 说明：
 由于个人能力有限，所以应用的代码在有些地方设计可能存在不合理，代码也显得臃肿，同时用户体验、应用流畅性、代码健壮性和可扩展性还有待改进。欢迎大家指正。
