@@ -20,7 +20,7 @@ index主界面
 应用截图：  
 
 使用的主要技术:  
-easyUI,ajax实现后台与前台的  
+easyUI,ajax实现后台与前台的数据交互   
 
 前端演示网址：http://localhost:8080/JavaWebProject  
 后台演示网址：http://localhost:8080/JavaWebProject/login.jsp  
